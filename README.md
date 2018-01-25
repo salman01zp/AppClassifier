@@ -4,6 +4,8 @@ To over come this problem we propose a Machine Learning based program AppClassif
 
 AppClassifier uses [NaiveBayes](https://en.wikipedia.org/wiki/Naive_Bayes_classifier) Classifier to classify the app into their respective Category
 
+## Use Playscrap python notebook for demo 
+
 ## Pre-requisites
 * Install python [Anaconda 3.6](https://www.anaconda.com/download/) for windows . It comes with almost all th python packages
 
